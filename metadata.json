@@ -1,0 +1,6 @@
+{
+  "name": "EduStruct",
+  "description": "Architecte de plans de formation : décomposez vos titres et compétences en modules logiques (Introduction, Théorie, Pratique, Évaluation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
